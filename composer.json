@@ -1,7 +1,7 @@
 {
     "name": "lukasbableck/contao-no-sitemap-in-maintenance-bundle",
     "type": "contao-bundle",
-	"description": "",
+	"description": "This bundle disables the sitemap if the root page is in maintenance mode.",
 	"keywords": [
 		"sitemap",
 		"maintenance",
